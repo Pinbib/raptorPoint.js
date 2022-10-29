@@ -8,9 +8,7 @@
   },
   "keywords": [],
   "author": "pinbib",
-  "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.6.1",
-    "meaning-of-life": "^1.0.0"
-  }
+  "лицензия" : "ISC" ,
+
+
 }
