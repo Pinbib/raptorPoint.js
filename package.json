@@ -1,14 +1,14 @@
 {
   "name": "RaptorPoint",
-  "версия" : "2.0.0" ,
+  "version" : "2.0.0" ,
   "description": "This package allows you to quickly and briefly receive HTML code, so far this is a test version, there will be more functionality in the future!",
-  «основной» : «raptorPoint2,0.js» ,
-  "скрипты" : {
+  «main» : «raptorPoint2,0.js» ,
+  "script" : {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "pinbib",
-  "лицензия" : "ISC" ,
+  "license" : "ISC" ,
 
 
 }
