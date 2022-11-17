@@ -161,4 +161,4 @@ var raptor = {
     }
   }
 }
-module.export = raptor;
+export default raptor;
