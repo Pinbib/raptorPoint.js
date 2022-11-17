@@ -1,9 +1,9 @@
 {
   "name": "RaptorPoint",
-  "version": "1.0.0",
+  "версия" : "2.0.0" ,
   "description": "This package allows you to quickly and briefly receive HTML code, so far this is a test version, there will be more functionality in the future!",
-  "main": "raptorPoint.js",
-  "scripts": {
+  «основной» : «raptorPoint2,0.js» ,
+  "скрипты" : {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
